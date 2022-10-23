@@ -1,0 +1,94 @@
+header{
+    background-color: red;
+    height: 60px;
+    width: 100%;
+}
+.element{
+    height: 30px;
+    width: 30px;
+    padding-top: 5px;
+    padding-left: 6px;
+    border-radius: 80px;
+    margin-top: 10px;
+}
+.tombol1{
+    float: right;
+    margin-top: 15px;
+    margin-right: 6px;    
+
+}
+.kanan{
+    float: right;
+    display: block;
+}
+.logo{
+    height: 50px;
+    width: 200px;
+    margin-left: 55px;
+}
+.subjudul{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Baju{
+    text-align: center;
+    margin-right: 20px;
+    background-color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+.induk{
+    display: flex;
+    justify-content: center;
+}
+.detail{
+    margin-top: 10px;
+}
+.f1{
+    background-color: orangered;
+    height: 100px;
+}
+.element1{
+    height: 40px;
+    width: 40px;
+    padding-top: 5px;
+    padding-left: 6px;
+    border-radius: 6px;
+
+}
+.sub{
+    padding-top: 10px;
+    padding-left: 8px;
+    margin-top: 45px;
+}
+.element2{
+
+    height: 40px;
+    width: 46px;
+    padding-top: 5px;
+    padding-left: 6px;
+    float: right;
+    margin-right: 10px;
+}
+footer{
+    padding: 5px 9px;
+    text-align: center;
+    background: yellow;
+    margin-top: 0px;
+    clear: both;
+    height: 40px;
+}
+.Ajudul{
+    background-color: red;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+.tlp{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+    border-radius: 80px;
+    margin-left: 10px;
+}
